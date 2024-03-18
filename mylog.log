@@ -1,0 +1,277 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:23:07] "GET /upload HTTP/1.1" 200 -
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:23:15] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:23:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:27:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:27:24] "GET /upload HTTP/1.1" 200 -
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:27:31] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:27:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:28:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:28:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:28:06] "GET /static/css/pra.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:28:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:29:41] "GET /upload HTTP/1.1" 200 -
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:29:49] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:29:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:31:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:31:06] "GET /upload HTTP/1.1" 200 -
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:31:23] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:31:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:32:36] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:32:47] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 19:32:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\workbook\\workbook.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\worksheet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\worksheet\\worksheet.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\workbook\\child.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\sklearn\\svm\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\boto\\sdb\\db\\sequence.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\chart\\_chart.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\chart\\series.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\chart\\error_bar.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\drawing\\colors.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\worksheet\\smart_tag.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\worksheet\\scenario.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\worksheet\\filters.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\openpyxl\\formatting\\rule.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:29:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:29:45] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:29:53] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:29:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:33:04] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:33:13] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:33:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:35:55] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:36:01] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:36:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:36:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:36:44] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:36:52] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:36:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:41:31] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:41:36] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:41:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:43:39] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:43:46] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:43:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:45:56] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:46:04] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:46:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:46:45] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:46:51] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:46:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:50:56] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:51:02] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:51:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:54:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:54:11] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:54:18] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:54:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\isaac\\PycharmProjects\\pythonProject19\\file_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:55:58] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\keras\\src\\engine\\training.py', reloading
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:56:06] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:56:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-104-437
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:57:24] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:57:32] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:57:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:58:20] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:root:ß÷ß÷ß÷³É¹¦À²
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:58:28] "[32mPOST /process_file HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 20:58:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-553-051
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2024 14:46:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2024 14:46:15] "GET /static/css/pra.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2024 14:46:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2024 14:46:20] "GET /upload HTTP/1.1" 200 -
+INFO:root:ß÷ß÷µ½ÕâÀïÀ²~
+INFO:root:½øÐÐµ½ÕâÀïÀ²~
+INFO:werkzeug: * Detected change in 'D:\\Anaconda\\anaconda\\Lib\\site-packages\\keras\\src\\engine\\training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-553-051
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
